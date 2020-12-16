@@ -1,0 +1,10 @@
+C:\Users\mert-\source\repos\RssUygulaması\RssUygulaması\bin\Debug\RssUygulaması.exe.config
+C:\Users\mert-\source\repos\RssUygulaması\RssUygulaması\bin\Debug\RssUygulaması.exe
+C:\Users\mert-\source\repos\RssUygulaması\RssUygulaması\bin\Debug\RssUygulaması.pdb
+C:\Users\mert-\source\repos\RssUygulaması\RssUygulaması\obj\Debug\RssUygulaması.csprojAssemblyReference.cache
+C:\Users\mert-\source\repos\RssUygulaması\RssUygulaması\obj\Debug\RssUygulaması.Form1.resources
+C:\Users\mert-\source\repos\RssUygulaması\RssUygulaması\obj\Debug\RssUygulaması.Properties.Resources.resources
+C:\Users\mert-\source\repos\RssUygulaması\RssUygulaması\obj\Debug\RssUygulaması.csproj.GenerateResource.cache
+C:\Users\mert-\source\repos\RssUygulaması\RssUygulaması\obj\Debug\RssUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\mert-\source\repos\RssUygulaması\RssUygulaması\obj\Debug\RssUygulaması.exe
+C:\Users\mert-\source\repos\RssUygulaması\RssUygulaması\obj\Debug\RssUygulaması.pdb
